@@ -15,6 +15,9 @@ test_nanoonion_analysis/
 # Ignore git directory
 .git/
 
+# Ignore cursor-specific files
+.cursorignore
+
 # Ignore editor and IDE files
 .vscode/
 .idea/
