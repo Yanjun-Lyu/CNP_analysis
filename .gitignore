@@ -1,0 +1,27 @@
+# Ignore compiled object files
+*.o
+
+# Ignore compiled binaries
+atom_classification
+CNP
+coordination_analysis
+extract_frames
+hybridization_counts
+nanoonion_analysis
+
+# Ignore test directories
+test_nanoonion_analysis/
+
+# Ignore git directory
+.git/
+
+# Ignore editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
